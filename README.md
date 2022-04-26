@@ -29,7 +29,7 @@ This project is a QR code component solution.
 ### Link
 
 - Solution URL: https://Github.com/HenryAgu/QRcode
-- Live URL : https://dazzling-pithivier-dc1857.netlify.app/
+- Live URL : https://vermillion-basbousa-243fca.netlify.app/
 
 
 ### Built with
